@@ -1,6 +1,6 @@
 # trabalho04_eEDB_011
 
-Trabalho 03 ministrado pelo professor Leandro Mendes Ferreira no segundo semestre de 2022 - Ingestão de Dados.
+Trabalho 04 ministrado pelo professor Leandro Mendes Ferreira no segundo semestre de 2022 - Ingestão de Dados.
 
 O trabalho consiste em realizar ETL:
 1) ingerir dados de um CSV e uma API utilizando python
